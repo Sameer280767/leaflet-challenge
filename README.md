@@ -27,6 +27,6 @@
  - Go to settings. Then pages. Select main branch and root folder.
  - Save. Go to code. On clicking a yellow button and once thejob is completed, go to pages.
  - The website is deployed in the link as below
- - https://sameer280767.github.io/belly-button-challenge/
+https://sameer280767.github.io/leaflet-challenge/
 
 

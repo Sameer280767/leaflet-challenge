@@ -1,3 +1,6 @@
+// I first define the api link
+const api_key = "pk.eyJ1IjoidGFsbGFudGo5NSIsImEiOiJjbGQwYmlicW0ydnZmM3BrNjhzcGxoMHVqIn0.NFVBr7AMOYS5BC5OwcXerA";
+
 // I am setting up URLs for accessing earthquake and tectonic plate data
 // 'queryUrl' points to the USGS earthquake data feed for the past week
 // 'tectonicplatesUrl' references a GeoJSON file containing tectonic plate boundaries

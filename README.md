@@ -10,9 +10,9 @@
 
 * Both parts are combined in one single code
 
-* API end point get data for last 7 days
-
 * Visualisation is presented as option between 3 views
+
+* To achieve this API key is used for Mapbox which allows us to get below 3 views
 
 * Satellite
 

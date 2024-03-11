@@ -22,4 +22,8 @@
 
 * Option is also presented to view the earthquake data with or withour tectonic plates overlayed 
 
+# Deployment
 
+* Site deployed to link below
+
+* 

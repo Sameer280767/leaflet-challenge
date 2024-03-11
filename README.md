@@ -26,4 +26,4 @@
 
 * Site deployed to link below
 
-* 
+* https://sameer280767.github.io/leaflet-challenge/
